@@ -19,7 +19,7 @@ Fala galera! Estou apresentando meu App Conversor de Unidades, objetivo desse ap
 ⭐ Unit Converter App ⭐ 
 Hey guys! I am presenting my Unit Converter App, the objective of this application was to acquire new skills such as:
 
--MVVM
+- MVVM
 - Jetpack Compose
 - Dependency injection with Dagger Hilt
 - Clean Architecture
