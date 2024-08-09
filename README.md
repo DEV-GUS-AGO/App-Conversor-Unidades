@@ -1,11 +1,13 @@
-⭐ App Conversor de Unidades ⭐ 
+# App Conversor de Unidades ⭐ 
+
+📸 Capturas de tela
 --------------------------------------------------------------------------------------------------------------------------
 ![1](https://github.com/user-attachments/assets/2e260cbc-c3ac-4b83-a8b1-85a01ee94f37)
 ![2](https://github.com/user-attachments/assets/171b186e-0101-4aa7-9da1-3961c297d192)
 ![3](https://github.com/user-attachments/assets/7123bc4c-edd8-4a5f-bd20-3c8f6b702212)
---------------------------------------------------------------------------------------------------------------------------
-Fala galera! Estou apresentando meu App Conversor de Unidades, objetivo desse aplicativo foi adquirir novas skills como:
 
+🛠️ Tecnologias utilizadas
+--------------------------------------------------------------------------------------------------------------------------
 - MVVM
 - Jetpack Compose
 - Injeção de dependência com Dagger Hilt
